@@ -1,0 +1,20 @@
+# Site settings
+title: Martin
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is my website description
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+twitter_username: aszel
+github_username:  aszel
+
+# posts in xxx
+xxx: xxx
+
+# Build settings
+markdown: kramdown
+
+# pagination
+paginate: 5
+
+exclude_pages: [ "Index", "About" ]

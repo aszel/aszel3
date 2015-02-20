@@ -1,0 +1,27 @@
+.post-list-date {
+    max-width: 60px;
+    text-align: center;
+    float: left;
+    margin-right: 10px;
+
+}
+
+.post-meta {
+    font-size: $small-font-size-xs;
+}
+
+.post-list-date-day {
+    padding: 0 6px;
+    display: block;
+    background-color: $grey-color-light;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+.post-list-date-year {
+    padding: 0 6px;
+    display: block;
+    color: $grey-color-light;
+    background-color: $grey-color;
+    border-bottom-left-radius: 3px;
+}
