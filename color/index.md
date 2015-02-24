@@ -1,13 +1,12 @@
 ---
 layout: default
-title: MartinsBlog
-permalink: /martin/
-position: 3
+title: WritersBlog
+permalink: /color/
+position: 4
 ---
-
 <ul class="post-list">
 {% for post in site.posts %}
-{% if post.categories contains 'martin' %}
+{% if post.categories contains 'writing' %}
 <li>
     <p class="post-list-date">
         <span class="post-meta post-list-date-day">{{ post.date | date: "%-d %b" }}</span>
