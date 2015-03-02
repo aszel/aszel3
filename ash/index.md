@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WritersBlog
-permalink: /color/
+permalink: /ash/
 position: 4
 ---
 <ul class="post-list">

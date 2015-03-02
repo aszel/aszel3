@@ -37,13 +37,15 @@
 }
 
 .tag:hover .term, .tag:hover .count {
-  text-decoration: underline;
+  /*background-color-animation: 0.2s ease-out;*/
+  background-color: $grey-color;
+  color: $grey-color-light;
 }
 
 .tagblock {
-  border: 1px solid #e8e8e8;
+  /*border: 1px solid #e8e8e8;*/
   border-radius: 2px;
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 
 .tagblock ul {
@@ -56,5 +58,5 @@
 
 .tagblock h2 {
   font-size: 24px;
-  margin: 10px 0 5px 15px;
+  margin: 10px 0 5px 0px;
 }
