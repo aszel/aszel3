@@ -14,7 +14,9 @@ position: 4
     </p>
     <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <p class="post-meta">{% if post.meta %}{{ post.meta }}{% endif %}</p>
     </h2>
+
 </li>
 {% endif %}
 {% endfor %}
