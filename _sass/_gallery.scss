@@ -1,26 +1,14 @@
-/**
- * gallery
- */
 .gallery {
-  width: 100%;
-  height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
 }
 
-.gallery a {
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
-  -webkit-touch-callout: none;
-  display: block;
-  float: left;
-  margin: 0 12px 12px 0;
-  width: 171px;
-  line-height: 0;
-}
-
-a.gallery-img-main {
-  width: auto;
-  height: auto;
+.gallery .galleryimage {
+    padding: 0 0.1em;
+    width: 32%;
 }
 
 .gallery figcaption {
-  display: none;
+    display: none;
 }
