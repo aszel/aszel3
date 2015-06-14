@@ -6,3 +6,26 @@ title: Index
 <div class="home">
     These are my two cents.
 </div>
+<!--
+<div class="links-block">
+<h2>Nerdstuff n more</h2>
+<ul class="">
+{% for post in site.posts %}
+    {% if post.categories contains 'martin' %}
+        <li><a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span>{{ post.date | date: "%-d %b %Y" }}</span></a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+</div>
+
+<div class="links-block">
+<h2>Writing</h2>
+<ul class="">
+{% for post in site.posts %}
+    {% if post.categories contains 'writing' %}
+        <li><a class="" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} <span>{{ post.date | date: "%-d %b %Y" }}</span></a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+</div>
+-->

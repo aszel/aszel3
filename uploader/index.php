@@ -1,45 +1,30 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html>
-
     <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>About</title>
-    <meta name="description" content="aszel power 3000
-">
+    <title>Uploader</title>
+    <meta name="description" content="aszel power 3000">
 
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="canonical" href="http://127.0.0.1:4000/about/">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="canonical" href="http://127.0.0.1:4000/uploader/">
     <link rel="alternate" type="application/rss+xml" title="aszel.com" href="http://127.0.0.1:4000/feed.xml" />
-
-    <!-- Core CSS file -->
-    <link href="http://127.0.0.1:4000/assets/photoswipe.css" rel="stylesheet" />
-
-    <!-- Skin CSS file (styling of UI - buttons, caption, etc.)
-         In the folder of skin CSS file there are also:
-         - .png and .svg icons sprite,
-         - preloader.gif (for browsers that do not support CSS animations) -->
-    <link href="http://127.0.0.1:4000/assets/default-skin/default-skin.css" rel="stylesheet" />
-
-    <!-- Core JS file -->
-    <script src="http://127.0.0.1:4000/assets/photoswipe.js"></script>
-
-    <!-- UI JS file -->
-    <script src="http://127.0.0.1:4000/assets/photoswipe-ui-default.min.js"></script>
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
 
 
     <body>
-
         <header class="site-header">
 
     <div class="logo-header hatched">
         <div class="wrapper">
-            <a href="http://127.0.0.1:4000">
+            <a href="http://aszel.local">
                 <svg class="color-aszel" viewBox="0 0 3000 400">
 
                   <!-- Symbol -->
