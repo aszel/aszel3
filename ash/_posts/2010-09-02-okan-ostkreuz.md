@@ -6,7 +6,7 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:       
-tags:       [okan, elcid, friedrichshain]
+tags:       [okan, friedrichshain, ostx]
 images:
     2010_09_okan_ostkreuz/del.jpg:           800x479
     2010_09_okan_ostkreuz/del1.jpg:          800x364

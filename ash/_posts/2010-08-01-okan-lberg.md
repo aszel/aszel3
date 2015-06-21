@@ -6,7 +6,7 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:       
-tags:       [ash, writing, gallery]
+tags:       [okan, lichtenberg]
 images:
     2010_08_okan_lberg_db/imag0056.jpg:          800x479
 ---

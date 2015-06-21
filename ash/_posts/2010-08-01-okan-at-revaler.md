@@ -6,7 +6,7 @@ categories: writing
 permalink:  ash/:title
 author:     Martin
 meta:       Good ol' times at Revaler Strasse
-tags:       [ash, writing, okan]
+tags:       [ash, okan, revaler]
 images:
     2010_08_okan_revalerstr/imag0064.jpg:  800x479
     2010_08_okan_revalerstr/imag0065.jpg:  800x479
