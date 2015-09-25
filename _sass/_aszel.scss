@@ -1,6 +1,12 @@
 /* Main styles */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800);
 
+/* landing page */
+.index .page-content {
+  min-height: 550px;
+  background-color: #FFBF00; /*dark yellow*/
+}
+
 .header-link {
   display: block;
   text-align: center;

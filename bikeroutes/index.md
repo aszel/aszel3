@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Martins Blog
-permalink: /blog/
+permalink: /bikeroutes/
 position: 3
 ---
 
 <ul class="post-list">
 {% for post in site.posts %}
-{% if post.categories contains 'martin' %}
+{% if post.categories contains 'bikeroutes' %}
 <li>
     <p class="post-list-date">
         <span class="post-meta post-list-date-day">{{ post.date | date: "%-d %b" }}</span>
