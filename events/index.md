@@ -26,36 +26,6 @@ List to keep track of upcoming events.
 
 <li>
     <p class="post-list-date">
-        <span class="post-meta post-list-date-day">12.11.</span>
-        <span class="post-meta post-list-date-year">2015</span>
-    </p>
-    <h2>
-        <a class="post-link" href="http://www.trinitytickets.de/85/slayer" target="_blank">
-        Slayer + Anthrax & Kvelertak
-        </a>
-        <p class="post-meta">
-        Columbia Halle | Donnerstag | 19:00 | 47€ 
-        </p>
-    </h2>
-</li>
-
-<li>
-    <p class="post-list-date">
-        <span class="post-meta post-list-date-day">13.11.</span>
-        <span class="post-meta post-list-date-year">2015</span>
-    </p>
-    <h2>
-        <a class="post-link" href="http://www.eventim.de/rudimental-berlin-Tickets.html?affiliate=EVE&doc=artistPages%2Ftickets&fun=artist&action=tickets&key=1284255%246096070&jumpIn=yTix&kuid=473365&from=erdetaila" target="_blank">
-        Rudimental
-        </a>
-        <p class="post-meta">
-        Astra | Freitag | 20:00 | 24€ 
-        </p>
-    </h2>
-</li>
-
-<li>
-    <p class="post-list-date">
         <span class="post-meta post-list-date-day">05.12.</span>
         <span class="post-meta post-list-date-year">2015</span>
     </p>
