@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Martins Blog
+title: aszel.com bike routes
 permalink: /bikeroutes/
 position: 3
 ---

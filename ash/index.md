@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WritersBlog
+title: aszel.com ash blog
 permalink: /ash/
 position: 4
 ---

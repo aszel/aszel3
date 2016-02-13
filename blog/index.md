@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Martins Blog
+title: aszel.com blog
 permalink: /blog/
 position: 3
 ---

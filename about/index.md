@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: aszel.com about
 permalink: /about/
 ---
 

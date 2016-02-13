@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: aszel.com tags
 description: "An archive of posts sorted by tag."
 permalink: /tags/
 position: 5
