@@ -6,17 +6,18 @@
   margin-left: 0;
   margin-bottom: 35px;
   padding-left: 0;
-  li {
-    list-style-type: none;
-    display: inline;
-    margin-right: 5px;
-  }
+}
+
+.inline-list li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 5px;
 }
 
 .tag, .tag:visited, .tag:active, .tag:hover {
   color: $grey-color;
   text-decoration: none;
-  font-size: $small-font-size
+  font-size: $base-font-size
 }
 
 .term {

@@ -1,14 +1,35 @@
-.post-list li:hover {
-    background-color: $grey-color-light;
+.post-list {
+    margin-left: 0;
+    list-style: none;
 }
 
-.post-list li a:hover {
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-list li {
+    color: $text-color;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: transparent;
+    transition:.1s;
+}
+
+.post-list li:hover {
+    background-color: orange;
     text-decoration: none;
 }
 
 .post-list li a {
     color: $text-color;
     padding-top: 2px;
+    display: block;
+    font-size: 24px;
+}
+
+.post-list a:hover {
+    text-decoration: none;
 }
 
 .post-list-date {
@@ -39,4 +60,46 @@
     color: $grey-color-light;
     background-color: $grey-color;
     border-top: none;
+}
+
+.post-header {
+    margin-bottom: $spacing-unit;
+}
+
+.post-title {
+    font-size: 42px;
+    letter-spacing: -1px;
+    line-height: 1;
+
+    @include media-query($on-laptop) {
+        font-size: 36px;
+    }
+}
+
+.post-content {
+    margin-bottom: $spacing-unit;
+
+    h2 {
+        font-size: 32px;
+
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
+
+    h3 {
+        font-size: 26px;
+
+        @include media-query($on-laptop) {
+            font-size: 22px;
+        }
+    }
+
+    h4 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
 }
