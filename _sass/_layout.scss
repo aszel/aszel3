@@ -24,7 +24,30 @@
 
 .site-nav {
     text-align: center;
-    line-height: 56px;
+
+    ul {
+        list-style-type: none;
+        margin-bottom: 0;
+    }
+
+    ul li {
+        display: inline-block;
+    }
+
+    ul li a {
+        padding: 1rem;
+        display: block;
+        background-color: transparent;
+        transition:.1s;
+    }
+
+    ul li a:hover {
+        color: white;
+        background-color: #56D9CD;
+        text-decoration: none;
+    }
+
+
 
     .menu-icon {
         display: none;

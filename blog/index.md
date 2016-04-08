@@ -5,6 +5,8 @@ permalink: /blog/
 position: 3
 ---
 
+<h1 class="post-title">Blog</h1>
+
 <ul class="post-list">
 {% for post in site.posts %}
 {% if post.categories contains 'martin' %}

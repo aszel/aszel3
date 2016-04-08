@@ -5,6 +5,8 @@ permalink: /events/
 
 ---
 
+<h1 class="post-title">Events</h1>
+
 <p>
 List to keep track of upcoming events.
 </p>

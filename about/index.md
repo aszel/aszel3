@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: aszel.com about
 permalink: /about/
 ---
+
+<h1 class="post-title">About</h1>
 
 The German "Telemediengesetz" requires that websites must have an "Impressum" disclosing information about the publisher. So, here we go:
 

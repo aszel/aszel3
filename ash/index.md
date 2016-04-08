@@ -4,6 +4,11 @@ title: aszel.com ash blog
 permalink: /ash/
 position: 4
 ---
+
+<h1 class="post-title">ASH Crew</h1>
+
+<p>Posts vom alten Blog</p>
+
 <ul class="post-list">
 {% for post in site.posts %}
 {% if post.categories contains 'writing' %}

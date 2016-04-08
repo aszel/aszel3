@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: default
 title: aszel.com tags
 description: "An archive of posts sorted by tag."
 permalink: /tags/
 position: 5
 ---
+
+<h1 class="post-title">Tags</h1>
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tags_list = site_tags | split:',' | sort %}
